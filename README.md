@@ -57,7 +57,7 @@ The service can be tested from the browser by typing the corresponding URL
 
 ## Inspired by
 
-[*Jersey 2.28* mvn archetype generation](https://jersey.github.io/download.html)
+[mvn archetype generation of *Jersey 2.28*](https://jersey.github.io/download.html)
 
 ### License
 
