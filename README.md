@@ -1,6 +1,6 @@
 # rest-api-java-jersey
 
-Minimalistic RESTful Web Services in *Java*(*Jersey*)
+Minimalistic RESTful web service in *Java*(*Jersey*)
 
 ## Direct ancestors
 
