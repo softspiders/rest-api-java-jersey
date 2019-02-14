@@ -14,6 +14,7 @@ Yet absent
 
 * [*Java 7*](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
 * [*Apache Maven*](https://maven.apache.org/)
+* Some servlet container for running: [*Apache Tomcat*](http://tomcat.apache.org/), [*Jetty*](https://www.eclipse.org/jetty/), ...
 
 Оther dependencies including [*Jersey 2.x*](https://jersey.github.io/) are transitive and therefore installed under the hood.
 
@@ -40,8 +41,7 @@ As a result, a distribution *war*-file will be obtained.
 
 ## Installation
 
-The *war* distribution then should be deployed on any *Java* servlet
-container: *Tomcat*, *Jetty*, ...
+The *war* distribution then should be deployed on your servlet container (*Apache Tomcat*](http://tomcat.apache.org/), [*Jetty*](https://www.eclipse.org/jetty/), ...)
 
 ## Running
 
