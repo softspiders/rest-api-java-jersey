@@ -13,23 +13,20 @@ Yet absent
 ## Requirements
 
 * [*Java 7*](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
-* [*Jersey 2.x*](https://jersey.github.io/)
 * [*Apache Maven*](https://maven.apache.org/)
 
-Оther dependencies are transitive and therefore installed under the hood.
+Оther dependencies including [*Jersey 2.x*](https://jersey.github.io/) are transitive and therefore installed under the hood.
 
 ## Code generation
 
-All code of this repository is generated.
-To create a source code for Servlet container deployable *Jersey 2.28* web-service,
-use
+All code of this repository is a source code for Servlet container deployable *Jersey 2.28* web-service and it is generated.
+To create the source code, use
 
 ```sh
 mvn archetype:generate -DarchetypeGroupId=org.glassfish.jersey.archetypes -DarchetypeArtifactId=jersey-quickstart-webapp -DarchetypeVersion=2.28
 ```
 
-After several questions and relevant answers, the source code of the web
-service will be generated.
+After several questions and your relevant answers, the source code of the web service will be generated.
 
 ## Build
 
