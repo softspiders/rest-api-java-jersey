@@ -2,14 +2,6 @@
 
 Minimalistic RESTful web service in *Java*([*Jersey 2.x*](https://jersey.github.io/))
 
-## Direct ancestors
-
-Absent
-
-## Direct descendants
-
-Yet absent
-
 ## Requirements
 
 * [*Java 7*](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
