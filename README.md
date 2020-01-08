@@ -4,7 +4,6 @@ Minimalistic RESTful web service in *Java*([*Jersey 2.x*](https://jersey.github.
 
 ## Feature tags
 
-- rest
 - jersey
 
 ## Requirements
