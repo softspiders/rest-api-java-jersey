@@ -1,4 +1,5 @@
-# SOFTSPIDERS: rest-api-java-jersey
+SOFTSPIDERS: 
+# rest-api-java-jersey
 
 Minimalistic RESTful web service in *Java*([*Jersey 2.x*](https://jersey.github.io/))
 
